@@ -17,7 +17,9 @@ Untuk melakukan klasifikasi menggunakan SVM, saya menggunakan dataset rice (Camm
 6. Convex_Area : Jumlah piksel cangkang cembung terkecil di wilayah yang dibentuk oleh butiran beras
 7. Extent : Rasio wilayah yang dibentuk oleh butiran beras terhadap kotak pembatas
 8. Class : Label yaitu Cammeo dan Osmancik
+
 Dari keseluruhan kolom saya menggunakan kolom Area dan Perimeter sebagai atribut/fitur. Dataset tersebut memiliki label yaitu pada kolom Class. Dataset memiliki jumlah field sebanyak 3810.
+
 Link sumber dataset : https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik
  
 ## REGRESI (SVR)
@@ -34,5 +36,7 @@ Untuk melakukan pemodelan regresi menggunakan SVR, saya menggunakan dataset Stro
 10. bmi : Body mass index / indeks massa tubuh
 11. smooking_status : Status merokok
 12. stroke : Terkena Stroke atau tidak
+
 Dari keseluruhan kolom yang ada pada dataset tersebut saya hanya menggunakan dua kolom yakni kolom BMI dan avg_glucose_level. Dataset tersebut memiliki jumlah field sebanyak 5110.
+
 Link Sumber Dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
