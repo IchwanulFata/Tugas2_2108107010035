@@ -1,3 +1,6 @@
+# Nama   : Ichwanul Fata
+# NPM   : 2108107010035
+
 # Cara Menjalankan Kode Program
 Untuk menjalankan kode program tersebut dapat menggunakan platform Google Colaboratory. Adapun langkah-langkah dalam menjalankan kode program tersebut yaitu :
 1. Download file .ipynb yang ada pada repository
