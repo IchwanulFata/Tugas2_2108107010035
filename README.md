@@ -1,10 +1,10 @@
 1. Cara Menjalankan Kode Program
 Untuk menjalankan kode program tersebut dapat menggunakan platform Google Colaboratory. Adapun langkah-langkah dalam menjalankan kode program tersebut yaitu :
->> Download file .ipynb yang ada pada repository
->> Ekspor file yang telah didownload ke dalam Google Drive
->> Klik kanan pada file yang telah diupload, klik open with dan pilih Google Colaboratory
->> Klik button run cell yang berada di sebelah kiri cell untuk tiap-tiap cell yang ada pada file tersebut
->> Output dari kode program akan ditampilkan dibagian bawah tiap-tiap cell
+1. Download file .ipynb yang ada pada repository
+2. Ekspor file yang telah didownload ke dalam Google Drive
+3. Klik kanan pada file yang telah diupload, klik open with dan pilih Google Colaboratory
+4. Klik button run cell yang berada di sebelah kiri cell untuk tiap-tiap cell yang ada pada file tersebut
+5. Output dari kode program akan ditampilkan dibagian bawah tiap-tiap cell
    
 2. Penjelasan Dataset
 # KLASIFIKASI (SVM)
