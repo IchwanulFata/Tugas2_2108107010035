@@ -1,7 +1,7 @@
 # Nama   : Ichwanul Fata
 # NPM   : 2108107010035
 
-# Cara Menjalankan Kode Program
+## Cara Menjalankan Kode Program
 Untuk menjalankan kode program tersebut dapat menggunakan platform Google Colaboratory. Adapun langkah-langkah dalam menjalankan kode program tersebut yaitu :
 1. Download file .ipynb yang ada pada repository
 2. Ekspor file yang telah didownload ke dalam Google Drive
@@ -9,8 +9,8 @@ Untuk menjalankan kode program tersebut dapat menggunakan platform Google Colabo
 4. Klik button run cell yang berada di sebelah kiri cell untuk tiap-tiap cell yang ada pada file tersebut
 5. Output dari kode program akan ditampilkan dibagian bawah tiap-tiap cell
    
-# Penjelasan Dataset
-## KLASIFIKASI (SVM)
+## Penjelasan Dataset
+### KLASIFIKASI (SVM)
 Untuk melakukan klasifikasi menggunakan SVM, saya menggunakan dataset rice (Cammeo and Osmancik). Pada dataset ini memiliki 8 kolom yaitu :
 1. Area : Jumlah piksel dalam batas butir beras
 2. Perimeter : Menghitung keliling dengan menghitung jarak antar piksel di sekitar batas butiran beras
@@ -25,7 +25,7 @@ Dari keseluruhan kolom saya menggunakan kolom Area dan Perimeter sebagai atribut
 
 Link sumber dataset : https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik
  
-## REGRESI (SVR)
+### REGRESI (SVR)
 Untuk melakukan pemodelan regresi menggunakan SVR, saya menggunakan dataset Stroke Prediction. Pada dataset ini memiliki 12 kolom yaitu :
 1. id : Identifier yang unik
 2. gender : Jenis Kelamin
